@@ -48,3 +48,4 @@ export function throttle<T extends (...args: any[]) => any>(
     return undefined as any;
   } as T;
 }
+export function multiply(a, b) { return a * b; }
