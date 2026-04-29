@@ -14,3 +14,4 @@ Thank you to all the people who have contributed to js-utilities! 🎉
 3. Submit PR
 
 Thank you for contributing! 🙏
+\n## Contributors\n- leeydev (creator)
