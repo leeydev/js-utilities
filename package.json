@@ -1,0 +1,17 @@
+{
+  "name": "js-utilities",
+  "version": "1.0.0",
+  "description": "A comprehensive JavaScript utility library with TypeScript support, zero dependencies, and tree-shaking",
+  "main": "dist/index.js",
+  "module": "src/index.ts",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": ["utils", "javascript", "typescript", "helpers", "zero-dependencies"],
+  "author": "leeydev <adaylete@gmail.com>",
+  "license": "MIT",
+  "repository": "github:leeydev/js-utilities"
+}
