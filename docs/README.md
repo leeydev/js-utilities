@@ -244,3 +244,4 @@ import { throttle } from 'js-utilities';
 
 const throttled = throttle(() => console.log('Called'), 300);
 ```
+\n## Testing Co-authorship
